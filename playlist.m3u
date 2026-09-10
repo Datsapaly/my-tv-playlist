@@ -31,5 +31,9 @@ https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_56000
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="VTV4-High" tvg-name="VTV4 (Bản VIP Chất lượng cao)",VTV4 (VIP)
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1,HẢI PHÒNG
-https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC1
+https://live.fptplay53.net/fnxsd1/vtc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,VTC3
+https://live.fptplay53.net/fnxsd1/vtc3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,QUỐC PHÒNG VIỆT NAM
+https://live.fptplay53.net/fnxsd1/qpvn_hls.smil/chunklist_b2500000.m3u8
